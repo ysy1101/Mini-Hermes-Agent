@@ -4,19 +4,99 @@
         "relevant_sources": ["RAG技术入门指南.md"]
     },
     {
-        "query": "RAG相比于传统大模型有什么优势",
+        "query": "检索增强生成的工作流程",
         "relevant_sources": ["RAG技术入门指南.md"]
     },
     {
-        "query": "向量数据库在RAG中的作用",
+        "query": "RAG相比纯大模型有什么优势",
         "relevant_sources": ["RAG技术入门指南.md"]
     },
     {
-        "query": "RAG系统的技术栈有哪些",
+        "query": "RAG和微调的区别是什么",
         "relevant_sources": ["RAG技术入门指南.md"]
     },
     {
-        "query": "知识库中关于检索生成的内容",
+        "query": "向量数据库怎么选型",
         "relevant_sources": ["RAG技术入门指南.md"]
+    },
+    {
+        "query": "Python列表推导式怎么写",
+        "relevant_sources": ["Python编程基础.md"]
+    },
+    {
+        "query": "Python中如何读取文件内容",
+        "relevant_sources": ["Python编程基础.md"]
+    },
+    {
+        "query": "Python的异常处理用哪个关键字",
+        "relevant_sources": ["Python编程基础.md"]
+    },
+    {
+        "query": "什么是监督学习和无监督学习",
+        "relevant_sources": ["机器学习入门.md"]
+    },
+    {
+        "query": "机器学习中的过拟合怎么解决",
+        "relevant_sources": ["机器学习入门.md"]
+    },
+    {
+        "query": "梯度下降算法有哪几种",
+        "relevant_sources": ["机器学习入门.md"]
+    },
+    {
+        "query": "分类模型的评估指标有哪些",
+        "relevant_sources": ["机器学习入门.md"]
+    },
+    {
+        "query": "Git如何解决合并冲突",
+        "relevant_sources": ["Git版本控制基础.md"]
+    },
+    {
+        "query": "git branch命令怎么用",
+        "relevant_sources": ["Git版本控制基础.md"]
+    },
+    {
+        "query": "Git的工作区和暂存区有什么区别",
+        "relevant_sources": ["Git版本控制基础.md"]
+    },
+    {
+        "query": "PyTorch的自动求导怎么实现",
+        "relevant_sources": ["深度学习框架PyTorch.md"]
+    },
+    {
+        "query": "PyTorch中怎么定义神经网络层",
+        "relevant_sources": ["深度学习框架PyTorch.md"]
+    },
+    {
+        "query": "PyTorch训练循环的标准写法",
+        "relevant_sources": ["深度学习框架PyTorch.md"]
+    },
+    {
+        "query": "如何使用Python进行深度学习",
+        "relevant_sources": ["深度学习框架PyTorch.md", "Python编程基础.md"]
+    },
+    {
+        "query": "特征工程的常用方法有哪些",
+        "relevant_sources": ["机器学习入门.md"]
+    },
+    {
+        "query": "如何用Python写一个反向传播",
+        "relevant_sources": ["深度学习框架PyTorch.md", "机器学习入门.md"]
+    },
+    {
+        "query": "红烧排骨怎么做",
+        "relevant_sources": []
+    },
+    {
+        "query": "2024年NBA总决赛冠军是谁",
+        "relevant_sources": []
+    },
+    {
+        "query": "股票投资入门指南",
+        "relevant_sources": []
+    },
+    {
+        "query": "如何学习弹吉他",
+        "relevant_sources": []
     }
 ]
